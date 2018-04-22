@@ -4,52 +4,32 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Saya merupakan seorang yang memiliki ketertarikan dalam mempelajari reverse engineering, buffer overflow, infrastructure security, dan mengenai intrusion detection system.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Menempuh pendidikan pada S1 Teknologi Informasi UGM
+* CCNA 1 & 2 pada Cisco Networking Academy Teknologi Informasi UGM
+
 
 ## Roles
 
-Founder, ABC Organisation
+Blue Team dari ngesec.id
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
+* **Programming** : Python, Bash, C, HTML, CSS, Assembly(Arsitektur Intel)
+* **Skill lain** : Manajemen Host Intrusion Detection System
+* **Sistem Operasi** : GNU Linux (Kali Linux), Ubuntu, Unix, Windows
+le nights of so many remarkable
+
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* [**Juara 3 CCOMP CTF UGM**](#)
+    Merupakan prestasi pertama dalam perlombaan CTF, saya memberikan poin kepada tim untuk mencapai final dengan mengerjakan 3 soal Reverse Engineering dan 1 soal pawning(Buffer Overflow). Walaupun pada detik terakhir saya juga menyelesaikan soal pawning ke 2, buffer overflow return address.
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[nizarakbarm04@gmail.com](mailto:nizarakbarm04@gmail.com)
