@@ -9,7 +9,7 @@ Pada soal Private Room ini, kita disuruh me-inverse logika dari program yang dip
 Dapat dilihat bahwa pada soal tersebut disuruh me-inverse logika pada program tersebut yang agar dapat memperoleh nilai char inputan yang sama dengan list flag yang telah didefinisikan. Cara me-inverse logika tersebut mudah untuk logika or,xor, dan and, yaitu dengan cara meng-andkan, meng-xorkan, dan meng-orkan tetapi untuk operator shift cara membalikkannya sedikit sulit sehingga membutuhkan bantuan suatu library pada python untuk pengerjannya.
 
 Library yang saya gunakan di sini adalah Z3 pada python. Z3 merupakan library python untuk solver dari suatu operasi dengan beberapa konstrain.
-`python
+``python
 from z3 import *
 flag=[233,129,9,5,130,194,195,39,75,229]
 f=[BitVec(i,8) for i in xrange(len(flag))]
@@ -23,7 +23,7 @@ if s.check()==sat:
     for i in range(len(flag)):
         str_1[i]=chr(m[f[i]].as_long())
     print 'CTFS{'+''.join(str_1)+'}'
-`
+``
 
 Kode python di atas berguna untuk mencari solusi suatu karakter inputan yang nilainya sesuai dengan list flag yang ada di program python pada soal.
 
