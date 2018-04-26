@@ -32,4 +32,4 @@ Sebelum kita mengerjakan soal Private Room dengan kode python tersebut, kita har
 Untuk detail tutorial tentang Z3 ada pada link website ini [Z3Py Guide](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
 `Flag: CTFS{4w3SomeB!T}`
-
+Semangat ber-CTF.
