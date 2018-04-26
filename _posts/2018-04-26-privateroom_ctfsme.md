@@ -29,7 +29,7 @@ Kode python di atas berguna untuk mencari solusi suatu karakter inputan yang nil
 
 Sebelum kita mengerjakan soal Private Room dengan kode python tersebut, kita harus terlebih dahulu mendefinisikan flag dalam angka ascii yang didefinisikan di program Private Room. Dan kita juga harus mendefinisikan f yang sama besarnya dengan list flag(variabel f). Saya menggunakan BitVec sebesar 8 bit karena untuk operasi shift dan xor membutuhkan nilai angka dalam bit vector sedangkan untuk batasan 8 bit karena nilai maksimal dari angka ascii di soal adalah 255. Setelah itu kita mendefinisikan objek Solver bernama s yang akan ditambahkan dengan konstrain yang ada pada soal dan tentunya nilainya harus lebih kecil dari angka ascii-nya 'z' agar python dapat mengkonversikannya menjadi string. Pada proses akhir di program setelah mengetahui apabila solvernya bisa dipenuhi konstrainnya maka kita tinggal mencetak masing-masing nilai dari model ke dalam karakter.
 
-Untuk detail tutorial tentang Z3 ada pada link website ini [Z3-Guide](https://rise4fun.com/z3/tutorial)
+Untuk detail tutorial tentang Z3 ada pada link website ini [Z3Py Guide](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
 `Flag: CTFS{4w3SomeB!T}`
 
