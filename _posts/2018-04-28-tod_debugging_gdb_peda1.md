@@ -5,7 +5,7 @@ author: Nizar Akbar Meilani
 ---
 Hai, setelah membahas tentang memory mapping pada postingan saya sebelumnya, saya akan membahas tentang salah satu trik debugging dengan gdbpeda, yaitu tentang penggunaan reference(&) dan pointer(*).
 
-![trick of the day 1](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/images/trick-of-the-day1.jpg "Reference & Pointer")
+![trick of the day 1](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/images/trick_of_the_day1.png "Reference & Pointer")
 
 Seperti yang kita ketahui pada penggunaan reference(&) dan pointer(*) pada bahasa pemrograman C. Reference(&) digunakan untuk mereferensikan pada alamat darisuatu variabel sedangkan pointer(*) digunakan untuk meminta nilai dari variabel yang ditunjukkan oleh reference(&).
 
