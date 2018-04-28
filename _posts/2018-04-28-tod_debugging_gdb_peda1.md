@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Trick of The Day Debugging dengan GDB peda(Reference & Pointer)
 author: Nizar Akbar Meilani
 ---
