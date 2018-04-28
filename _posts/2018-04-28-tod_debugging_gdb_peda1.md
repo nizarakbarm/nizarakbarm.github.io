@@ -14,3 +14,5 @@ Dengan menggunakan reference kita dapat mencetak alamat dari suatu variabel di g
 
 Kita dapat juga menentukan breakpoint pada penulisan definisi dari variabel dengan `break *(&a-n)`.
 * keterangan: untuk breakpoint pada variabel a maka tidak usah menggunakan n atau isi n dengan 0
+
+* Catatan tambahan: Jika yang diminta isinya adalah register atau alamat memori maka tidak perlu menggunakan & karena bukan variabel sehingga langsung *($[nama register|alamat memori])
