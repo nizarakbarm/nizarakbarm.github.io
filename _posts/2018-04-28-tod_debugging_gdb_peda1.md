@@ -17,7 +17,7 @@ Kita dapat juga menentukan breakpoint pada penulisan definisi dari variabel deng
 
 * Catatan tambahan: Jika yang diminta isinya adalah register atau alamat memori maka tidak perlu menggunakan & karena bukan variabel sehingga langsung *($[nama register|alamat memori])
 
-Selain itu perlu diingat bahwa kita tidak dapat mengakses alamat sebelum awal dari pages seperti yang dilakukan oleh perintah `p\x *(&a-100)` dan `p\x *(&a-50`.
+Selain itu perlu diingat bahwa kita tidak dapat mengakses alamat sebelum awal dari pages seperti yang dilakukan oleh perintah `p\x *(&a-100)` dan `p\x *(&a-50)`.
 
 * Assembly Code: [Assembly code](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/files/mem.asm "Assembly Code")
 * Executable: [Executable](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/files/mem "Executable")
