@@ -4,7 +4,7 @@ title: Assembly Language Memory Mapping Linux
 author: Nizar Akbar Meilani
 ---
 Pada kali ini, saya akan membahas tentang pemetaan memori logika dari bahasa assembly pada linux. Tetapi sebelumnya perlu diketaui bahwa pemetaan memori di sini juga berlaku bagi semua program pada linux(terutama yang dicompile menjadi executable).
-![Memory Mapping](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/images/"Assembly Language.jpg" "Mindmap memory mapping")
+![Memory Mapping](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/images/AssemblyLanguage.jpg" "Mindmap memory mapping")
 
 Seperti yang diketahui, bahasa assembly merupakan bahasa untuk menyimbolkan bahasa mesin sehingga lebih mudah dipahami dan tidak perlu mengetahui instruksi yang tersusun atas binary (0 dan 1). Bahasa assembly digunakan oleh programmer untk membuat program executable(khususnya pada masa sebelum bahasa pemrograman C belum umum dan di masa-masa adanya bahasa pemrograman C). Program dieksekusi pada komputer menggunakan beberapa instruksi, variabel dan nilai dari variabel. Program dijalankan tentunya menggunakan memori baik itu memori fisik atau memori logika. Jika menggunakan memori tentunya harus ada pemetaan masing-masing memori agar tidak ada masalah pada masing-masing program yang dijalankan. Kali ini saya akan menyampaikan tentang pemetaan memori logika pada linux(dengan pembahasan berhubungan dengan bahasa assembly).
 
