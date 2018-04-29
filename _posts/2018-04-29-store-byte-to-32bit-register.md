@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menyimpan Data yang Didefinisikan Byte pada Register 32 byte
+title: Menyimpan Data yang Didefinisikan Byte pada Register 32 bit
 author: Nizar Akbar Meilani
 ---
 
