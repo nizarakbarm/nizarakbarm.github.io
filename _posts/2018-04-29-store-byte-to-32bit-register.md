@@ -24,8 +24,8 @@ b db 0x55,0x00,0x00,0x00
 ![mov db to eax (benar)](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/images/assembly_2.png "mov db to eax")
 
 Kode assembly yang digunakan adalah sebagai berikut:
-* Pendefinisian byte yang dipindahkan ke register 32 bit yang salah: [salah](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/files/arit.asm)
-* Pendifinisian byte yang dipindahkan ke register 32 bit yang benar: [benar](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/files/arit2.asm)
+* Pendefinisian byte yang dipindahkan ke register 32 bit yang salah: [arit.asm](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/files/arit.asm)
+* Pendifinisian byte yang dipindahkan ke register 32 bit yang benar: [arit2.asm](https://raw.githubusercontent.com/nizarakbarm/nizarakbarm.github.io/master/files/arit2.asm)
 
 
 
